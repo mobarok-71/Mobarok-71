@@ -59,11 +59,13 @@ My collection of data analytics and visualization projects.
 
 ## 🤝 Connect With Me
 
-- 🐙 GitHub: [@moborak-71](https://github.com/mobarok-71)
-- 💼 LinkedIn: Add your LinkedIn profile URL here.
-- 📧 Email: Add your professional email here.
+- ## 🤝 Connect With Me
 
----
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/md-mobarok-hossen-354173340/)
+- 📧 Email: [mobarokyusuf5@gmail.com](mailto:mobarokyusuf5@gmail.com)
+- 🐙 GitHub: [@moborak-71](https://github.com/mobarok-71)
+
+I'm open to Data Analyst job opportunities, freelance projects, and collaborations.
 
 <p align="center">
   <i>"Turning data into insights, one project at a time."</i>
